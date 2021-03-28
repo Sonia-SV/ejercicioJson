@@ -1,204 +1,73 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<root>
-    <Aldi>
-        <direccion>Glorieta de Cuatro Caminos 6</direccion>
-        <codigoPostal>28020</codigoPostal>
-        <coordenadas>40°26'50.51"N 3°42'12.88"O"</coordenadas>
-        <productos>
-            <panaderia>
-                <producto>pan blanco</producto>
-                <marca>El horno</marca>
-                <informacion>
-                    <unidades>1</unidades>
-                    <fresco>true</fresco>
-                    <formato>envasado</formato>
-                    <cantidad>500</cantidad>
-                    <unidadMedida>gramos</unidadMedida>
-                </informacion>
-                <precioVta>1.99</precioVta>
-                <perecedero>true</perecedero>
-                <enOferta>true</enOferta>
-                <comprado>false</comprado>
-            </panaderia>
-            <panaderia>
-                <producto>pan semillas y cereales</producto>
-                <marca>El horno</marca>
-                <informacion>
-                    <unidades>1</unidades>
-                    <fresco>true</fresco>
-                    <formato>envasado</formato>
-                    <cantidad>450</cantidad>
-                    <unidadMedida>gramos</unidadMedida>
-                </informacion>
-                <precioVta>2.67</precioVta>
-                <perecedero>true</perecedero>
-                <enOferta>false</enOferta>
-                <comprado>true</comprado>
-            </panaderia>
-            <frutería>
-                <producto>tomate cherry</producto>
-                <marca>Aldi</marca>
-                <informacion>
-                    <unidades>1</unidades>
-                    <fresco>true</fresco>
-                    <formato>envasado</formato>
-                    <cantidad>200</cantidad>
-                    <unidadMedida>gramos</unidadMedida>
-                </informacion>
-                <precioVta>0.99</precioVta>
-                <perecedero>true</perecedero>
-                <enOferta>true</enOferta>
-                <comprado>true</comprado>
-            </frutería>
-            <frutería>
-                <producto>piña</producto>
-                <marca>Del Monte</marca>
-                <informacion>
-                    <unidades>1</unidades>
-                    <fresco>true</fresco>
-                    <formato>al peso</formato>
-                    <cantidad>1.5</cantidad>
-                    <unidadMedida>kilo gramos</unidadMedida>
-                </informacion>
-                <precioVta>2.19</precioVta>
-                <perecedero>true</perecedero>
-                <enOferta>false</enOferta>
-                <comprado>true</comprado>
-            </frutería>
-        </productos>
-    </Aldi>
-    <Carrefour>
-        <direccion>Glorieta de Cuatro Caminos 4</direccion>
-        <codigoPostal>28020</codigoPostal>
-        <coordenadas>40°26'50.38"N 3°42'15.73"O"</coordenadas>
-        <productos>
-            <panaderia>
-                <producto>pan de molde integral</producto>
-                <marca>Oroweat</marca>
-                <informacion>
-                    <unidades>1</unidades>
-                    <fresco>true</fresco>
-                    <formato>envasado</formato>
-                    <cantidad>400</cantidad>
-                    <unidadMedida>gramos</unidadMedida>
-                </informacion>
-                <precioVta>3.99</precioVta>
-                <perecedero>true</perecedero>
-                <enOferta>true</enOferta>
-                <comprado>false</comprado>
-            </panaderia>
-            <panaderia>
-                <producto>pan baguette</producto>
-                <marca>Carrefour</marca>
-                <informacion>
-                    <unidades>2</unidades>
-                    <fresco>true</fresco>
-                    <formato>congelado</formato>
-                    <cantidad>300</cantidad>
-                    <unidadMedida>gramos</unidadMedida>
-                </informacion>
-                <precioVta>3.75</precioVta>
-                <perecedero>true</perecedero>
-                <enOferta>false</enOferta>
-                <comprado>true</comprado>
-            </panaderia>
-            <frutería>
-                <producto>limon</producto>
-                <marca>Carrefour</marca>
-                <informacion>
-                    <unidades>1</unidades>
-                    <fresco>true</fresco>
-                    <formato>al peso</formato>
-                    <cantidad>1</cantidad>
-                    <unidadMedida>gramos</unidadMedida>
-                </informacion>
-                <precioVta>0.42</precioVta>
-                <perecedero>true</perecedero>
-                <enOferta>true</enOferta>
-                <comprado>true</comprado>
-            </frutería>
-            <frutería>
-                <producto>aguacate</producto>
-                <marca>Bio</marca>
-                <informacion>
-                    <unidades>1</unidades>
-                    <fresco>true</fresco>
-                    <formato>bolsa</formato>
-                    <cantidad>500</cantidad>
-                    <unidadMedida>gramos</unidadMedida>
-                </informacion>
-                <precioVta>2.89</precioVta>
-                <perecedero>true</perecedero>
-                <enOferta>false</enOferta>
-                <comprado>true</comprado>
-            </frutería>
-        </productos>
-    </Carrefour>
-    <Lidl>
-        <direccion>Calle de Bravo Murillo, 121</direccion>
-        <codigoPostal>28021</codigoPostal>
-        <coordenadas>40°26'56.39"N 3°42'13.93"O"</coordenadas>
-        <productos>
-            <panaderia>
-                <producto>pan de pueblo</producto>
-                <marca>Lidl</marca>
-                <informacion>
-                    <unidades>1</unidades>
-                    <fresco>true</fresco>
-                    <formato>al peso</formato>
-                    <cantidad>200</cantidad>
-                    <unidadMedida>gramos</unidadMedida>
-                </informacion>
-                <precioVta>0.99</precioVta>
-                <perecedero>true</perecedero>
-                <enOferta>true</enOferta>
-                <comprado>true</comprado>
-            </panaderia>
-            <panaderia>
-                <producto>pan de centeno</producto>
-                <marca>La cestera</marca>
-                <informacion>
-                    <unidades>1</unidades>
-                    <fresco>true</fresco>
-                    <formato>envasado</formato>
-                    <cantidad>150</cantidad>
-                    <unidadMedida>gramos</unidadMedida>
-                </informacion>
-                <precioVta>4</precioVta>
-                <perecedero>true</perecedero>
-                <enOferta>false</enOferta>
-                <comprado>false</comprado>
-            </panaderia>
-            <frutería>
-                <producto>lechuga iceberg</producto>
-                <marca>Edulis</marca>
-                <informacion>
-                    <unidades>1</unidades>
-                    <fresco>true</fresco>
-                    <formato>envasado</formato>
-                    <cantidad>250</cantidad>
-                    <unidadMedida>gramos</unidadMedida>
-                </informacion>
-                <precioVta>0.79</precioVta>
-                <perecedero>true</perecedero>
-                <enOferta>false</enOferta>
-                <comprado>false</comprado>
-            </frutería>
-            <frutería>
-                <producto>frambuesa</producto>
-                <marca>berries delight</marca>
-                <informacion>
-                    <unidades>1</unidades>
-                    <fresco>true</fresco>
-                    <formato>al peso</formato>
-                    <cantidad>200</cantidad>
-                    <unidadMedida>gramos</unidadMedida>
-                </informacion>
-                <precioVta>2.39</precioVta>
-                <perecedero>true</perecedero>
-                <enOferta>false</enOferta>
-                <comprado>false</comprado>
-            </frutería>
-        </productos>
-    </Lidl>
-</root>
+<Aldi>
+    <direccion>Glorieta de Cuatro Caminos 6</direccion>
+    <codigoPostal>28020</codigoPostal>
+    <coordenadas>
+        <norte>40°26'50.51</norte>
+        <sur></sur>
+        <este></este>
+        <oeste>3°42'12.88</oeste>
+    </coordenadas>
+    <productos>
+        <panaderia>
+            <producto>pan blanco</producto>
+            <marca>El horno</marca>
+            <informacion>
+                <unidades>1</unidades>
+                <fresco>true</fresco>
+                <formato>envasado</formato>
+                <cantidad>500</cantidad>
+                <unidadMedida>gramos</unidadMedida>
+            </informacion>
+            <precioVta>1.99</precioVta>
+            <perecedero>true</perecedero>
+            <enOferta>true</enOferta>
+            <comprado>false</comprado>
+        </panaderia>
+        <panaderia>
+            <producto>pan semillas y cereales</producto>
+            <marca>El horno</marca>
+            <informacion>
+                <unidades>1</unidades>
+                <fresco>true</fresco>
+                <formato>envasado</formato>
+                <cantidad>450</cantidad>
+                <unidadMedida>gramos</unidadMedida>
+            </informacion>
+            <precioVta>2.67</precioVta>
+            <perecedero>true</perecedero>
+            <enOferta>false</enOferta>
+            <comprado>true</comprado>
+        </panaderia>
+        <frutería>
+            <producto>tomate cherry</producto>
+            <marca>Aldi</marca>
+            <informacion>
+                <unidades>1</unidades>
+                <fresco>true</fresco>
+                <formato>envasado</formato>
+                <cantidad>200</cantidad>
+                <unidadMedida>gramos</unidadMedida>
+            </informacion>
+            <precioVta>0.99</precioVta>
+            <perecedero>true</perecedero>
+            <enOferta>true</enOferta>
+            <comprado>true</comprado>
+        </frutería>
+        <frutería>
+            <producto>piña</producto>
+            <marca>Del Monte</marca>
+            <informacion>
+                <unidades>1</unidades>
+                <fresco>true</fresco>
+                <formato>al peso</formato>
+                <cantidad>1.5</cantidad>
+                <unidadMedida>kilo gramos</unidadMedida>
+            </informacion>
+            <precioVta>2.19</precioVta>
+            <perecedero>true</perecedero>
+            <enOferta>false</enOferta>
+            <comprado>true</comprado>
+        </frutería>
+    </productos>
+</Aldi>

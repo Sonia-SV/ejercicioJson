@@ -1,7 +1,7 @@
 
-# Práctica JSON 
+# Práctica 3. JSON
 
-### Curso Samsung Desarrolladoras
+#### Curso Samsung Desarrolladoras
 
 Juan es el encargado de realizar las compras en su casa, por lo que revisa a menudo los catálogos de ofertas de los diferentes supermercados próximos a su domicilio con el fin de ahorrarse unos euros a final de mes.
 

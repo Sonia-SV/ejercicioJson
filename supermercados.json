@@ -38,7 +38,7 @@
               "comprado": true
             }
           ],
-          "frutería": [
+          "fruteria": [
             {
               "producto": "tomate cherry",
               "marca": "Aldi",
@@ -113,7 +113,7 @@
               "comprado": true
             }
           ],
-          "frutería": [
+          "fruteria": [
             {
               "producto": "limon",
               "marca": "Carrefour",
@@ -188,7 +188,7 @@
               "comprado": false
             }
           ],
-          "frutería": [
+          "fruteria": [
             {
               "producto": "lechuga iceberg",
               "marca": "Edulis",

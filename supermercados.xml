@@ -39,7 +39,7 @@
             <enOferta>false</enOferta>
             <comprado>true</comprado>
         </panaderia>
-        <frutería>
+        <fruteria>
             <producto>tomate cherry</producto>
             <marca>Aldi</marca>
             <informacion>
@@ -53,8 +53,8 @@
             <perecedero>true</perecedero>
             <enOferta>true</enOferta>
             <comprado>true</comprado>
-        </frutería>
-        <frutería>
+        </fruteria>
+        <fruteria>
             <producto>piña</producto>
             <marca>Del Monte</marca>
             <informacion>
@@ -68,6 +68,6 @@
             <perecedero>true</perecedero>
             <enOferta>false</enOferta>
             <comprado>true</comprado>
-        </frutería>
+        </fruteria>
     </productos>
 </Aldi>

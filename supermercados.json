@@ -1,0 +1,227 @@
+{
+  "Aldi": [
+    {
+      "direccion": "Glorieta de Cuatro Caminos 6",
+      "codigoPostal": 28020,
+      "coordenadas": "40°26'50.51\"N 3°42'12.88\"O\"",
+      "productos": [
+        {
+          "panaderia": [
+            {
+              "producto": "pan blanco",
+              "marca": "El horno",
+              "informacion": {
+                "unidades": 1,
+                "fresco": true,
+                "formato": "envasado",
+                "cantidad": 500,
+                "unidadMedida": "gramos"
+              },
+              "precioVta": 1.99,
+              "perecedero": true,
+              "enOferta": true,
+              "comprado": false
+            },
+            {
+              "producto": "pan semillas y cereales",
+              "marca": "El horno",
+              "informacion": {
+                "unidades": 1,
+                "fresco": true,
+                "formato": "envasado",
+                "cantidad": 450,
+                "unidadMedida": "gramos"
+              },
+              "precioVta": 2.67,
+              "perecedero": true,
+              "enOferta": false,
+              "comprado": true
+            }
+          ],
+          "frutería": [
+            {
+              "producto": "tomate cherry",
+              "marca": "Aldi",
+              "informacion": {
+                "unidades": 1,
+                "fresco": true,
+                "formato": "envasado",
+                "cantidad": 200,
+                "unidadMedida": "gramos"
+              },
+              "precioVta": 0.99,
+              "perecedero": true,
+              "enOferta": true,
+              "comprado": true
+            },
+            {
+              "producto": "piña",
+              "marca": "Del Monte",
+              "informacion": {
+                "unidades": 1,
+                "fresco": true,
+                "formato": "al peso",
+                "cantidad": 1.5,
+                "unidadMedida": "kilo gramos"
+              },
+              "precioVta": 2.19,
+              "perecedero": true,
+              "enOferta": false,
+              "comprado": true
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Carrefour": [
+    {
+      "direccion": "Glorieta de Cuatro Caminos 4",
+      "codigoPostal": 28020,
+      "coordenadas": "40°26'50.38\"N 3°42'15.73\"O\"",
+      "productos": [
+        {
+          "panaderia": [
+            {
+              "producto": "pan de molde integral",
+              "marca": "Oroweat",
+              "informacion": {
+                "unidades": 1,
+                "fresco": true,
+                "formato": "envasado",
+                "cantidad": 400,
+                "unidadMedida": "gramos"
+              },
+              "precioVta": 3.99,
+              "perecedero": true,
+              "enOferta": true,
+              "comprado": false
+            },
+            {
+              "producto": "pan baguette",
+              "marca": "Carrefour",
+              "informacion": {
+                "unidades": 2,
+                "fresco": true,
+                "formato": "congelado",
+                "cantidad": 300,
+                "unidadMedida": "gramos"
+              },
+              "precioVta": 3.75,
+              "perecedero": true,
+              "enOferta": false,
+              "comprado": true
+            }
+          ],
+          "frutería": [
+            {
+              "producto": "limon",
+              "marca": "Carrefour",
+              "informacion": {
+                "unidades": 1,
+                "fresco": true,
+                "formato": "al peso",
+                "cantidad": 1,
+                "unidadMedida": "gramos"
+              },
+              "precioVta": 0.42,
+              "perecedero": true,
+              "enOferta": true,
+              "comprado": true
+            },
+            {
+              "producto": "aguacate",
+              "marca": "Bio",
+              "informacion": {
+                "unidades": 1,
+                "fresco": true,
+                "formato": "bolsa",
+                "cantidad": 500,
+                "unidadMedida": "gramos"
+              },
+              "precioVta": 2.89,
+              "perecedero": true,
+              "enOferta": false,
+              "comprado": true
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Lidl": [
+    {
+      "direccion": "Calle de Bravo Murillo, 121",
+      "codigoPostal": 28021,
+      "coordenadas": "40°26'56.39\"N 3°42'13.93\"O\"",
+      "productos": [
+        {
+          "panaderia": [
+            {
+              "producto": "pan de pueblo",
+              "marca": "Lidl",
+              "informacion": {
+                "unidades": 1,
+                "fresco": true,
+                "formato": "al peso",
+                "cantidad": 200,
+                "unidadMedida": "gramos"
+              },
+              "precioVta": 0.99,
+              "perecedero": true,
+              "enOferta": true,
+              "comprado": true
+            },
+            {
+              "producto": "pan de centeno",
+              "marca": "La cestera",
+              "informacion": {
+                "unidades": 1,
+                "fresco": true,
+                "formato": "envasado",
+                "cantidad": 150,
+                "unidadMedida": "gramos"
+              },
+              "precioVta": 4.00,
+              "perecedero": true,
+              "enOferta": false,
+              "comprado": false
+            }
+          ],
+          "frutería": [
+            {
+              "producto": "lechuga iceberg",
+              "marca": "Edulis",
+              "informacion": {
+                "unidades": 1,
+                "fresco": true,
+                "formato": "envasado",
+                "cantidad": 250,
+                "unidadMedida": "gramos"
+              },
+              "precioVta": 0.79,
+              "perecedero": true,
+              "enOferta": false,
+              "comprado": false
+            },
+            {
+              "producto": "frambuesa",
+              "marca": "berries delight",
+              "informacion": {
+                "unidades": 1,
+                "fresco": true,
+                "formato": "al peso",
+                "cantidad": 200,
+                "unidadMedida": "gramos"
+              },
+              "precioVta": 2.39,
+              "perecedero": true,
+              "enOferta": false,
+              "comprado": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
